@@ -10,7 +10,7 @@ To have a masterful knowledge of the core javascript language to help me build a
 
 ### How to navigate:
 
-- JS_Concepts folder - Major building blocks of the language/Software engineering including notes and example files.
+- Notes - Major building blocks of the language/Software engineering including notes and example files.
 
 - Projects - Small projects combining one or two concepts to help demonstrate and practice working knowledge of topics.
 
