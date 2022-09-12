@@ -306,7 +306,7 @@ function Dog() {
   }, 7);
 }
 
-const p = new Person();
+const p = new Dog();
 ```
 
 ## Predefined functions:
